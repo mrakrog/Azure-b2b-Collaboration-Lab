@@ -32,8 +32,5 @@ For common setup issues, refer to [TROUBLESHOOTING.md](./TROUBLESHOOTING.md).
 ## Contributing
 Contributions to this project are welcome! See guidelines on contributing in the repository.
 
-## License
-Specify the license under which the project is made available.
-
 ## References
 Further reading and resources are listed in [REFERENCES.md](./REFERENCES.md).
